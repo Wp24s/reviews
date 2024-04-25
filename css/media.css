@@ -1,0 +1,189 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*header start*/
+
+.logo {
+    text-align: center;
+}
+.h_h1 {
+    font-size: 20px;
+    text-align: center;
+        padding: 15px 0;
+
+}
+.btn_c {
+    padding: 10px 90px;
+    margin-left: 0px;
+}
+
+
+
+/*banner start*/
+.banner {
+    margin: 50px 0 35px;
+}
+
+/*comment start*/
+.c_h1 {
+    font-size: 15px;
+}
+
+.f_text {
+    font-size: 14px;
+}
+
+.c_form {
+    margin-top: 30px;
+}
+
+/*review start*/
+.r_title {
+    
+    font-size: 17px;
+}
+.r_h2 {
+    
+    font-size: 17px;
+}
+.r_p {
+    font-size: 13px;
+}
+
+.r_img img {
+    width: 120px;
+    height: 35px;
+}
+
+/*footer start*/
+.footer ul li {
+    font-size: 15px;
+}
+
+
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*header start*/
+
+.logo {
+    text-align: center;
+}
+.h_h1 {
+    font-size: 20px;
+    text-align: center;
+        padding: 15px 0;
+        
+}
+.btn_c {
+    padding: 10px 197px;
+    margin-left: 0px;
+}
+
+
+/*comment start*/
+.c_h1 {
+    font-size: 21px;
+}
+
+.f_text {
+    font-size: 18px;
+}
+
+/*review start*/
+.r_title {
+    
+    font-size: 20px;
+}
+.r_h2 {
+    
+    font-size: 17px;
+}
+.r_p {
+    font-size: 14px;
+}
+
+/*footer start*/
+.footer ul li {
+    font-size: 15px;
+}
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+/*review start*/
+.r_title {
+    
+    font-size: 20px;
+}
+.r_h2 {
+    
+    font-size: 17px;
+}
+.r_p {
+    font-size: 14px;
+}
+/*header start*/
+
+.logo img {
+    width: 195px;
+}
+
+.h_h1 {
+    font-size: 17px;
+    
+}
+.btn_c {
+    
+    padding: 10px 27px;
+    margin-left: 45px;
+}
+
+/*footer start*/
+.footer ul li {
+    font-size: 17px;
+}
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header start*/
+.h_h1 {
+    font-size: 17px;
+    
+}
+.btn_c {
+    
+    padding: 10px 64px;
+    margin-left: 51px;
+}
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+/*header start*/
+.btn_c {
+    padding: 10px 95px;
+    margin-left: 50px;
+}
+
+
+ }
+
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+
+
+ }
